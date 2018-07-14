@@ -1,0 +1,2 @@
+gcc mkbl2.c -o mkbl2
+./mkbl2 u-boot-spl.bin bl2.bin 14336
